@@ -14,19 +14,32 @@
 
 2. MARCO TEÓRICO (RESUMEN)
 
-![Screenshot]()
+![Screenshot](DEBER13Y14/1.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Resolución del capitulo 13 (ejercicios impares)
 
-![Screenshot]()
-
+![Screenshot](DEBER13Y14/2.jpg)
+![Screenshot](DEBER13Y14/3.jpg)
+![Screenshot](DEBER13Y14/4.jpg)
+![Screenshot](DEBER13Y14/5.jpg)
+![Screenshot](DEBER13Y14/6.jpg)
+![Screenshot](DEBER13Y14/7.jpg)
+![Screenshot](DEBER13Y14/8.jpg)
+![Screenshot](DEBER13Y14/9.jpg)
+![Screenshot](DEBER13Y14/10.jpg)
 
 Resolución del capitulo 14 (ejercicios pares)
 
-![Screenshot]()
-
+![Screenshot](DEBER13Y14/11.jpg)
+![Screenshot](DEBER13Y14/12.jpg)
+![Screenshot](DEBER13Y14/13.jpg)
+![Screenshot](DEBER13Y14/14.jpg)
+![Screenshot](DEBER13Y14/15.jpg)
+![Screenshot](DEBER13Y14/16.jpg)
+![Screenshot](DEBER13Y14/17.jpg)
+![Screenshot](DEBER13Y14/18.jpg)
 
 4. VIDEO
 
