@@ -43,7 +43,7 @@ Resolución del capitulo 14 (ejercicios pares)
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=Rc4YYX3o9DY
 
 5. CONCLUSIONES
 
